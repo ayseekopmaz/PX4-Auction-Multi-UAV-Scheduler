@@ -29,4 +29,4 @@ Sistem, tanımlanan her görev için filodaki droneların konum, batarya ve mesa
 
 ---
 
-## 📂 Dosya Yapısı
+
