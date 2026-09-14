@@ -1,0 +1,4 @@
+grpcio==1.83.0
+mavsdk==3.17.2
+protobuf==7.35.1
+typing_extensions==4.16.0

@@ -1,0 +1,4 @@
+gorev_id,gorev_x_m,gorev_y_m,gorev_odulu,drone_id,drone_x_m,drone_y_m,batarya_yuzde,mesafe_m,tahmini_enerji_yuzde,kalan_batarya_yuzde,teklif_puani,uygun,kazanan
+1,0.0,5.0,100.0,1,0.0,0.0,70.0,5.0,5.0,65.0,99.0,True,False
+1,0.0,5.0,100.0,2,4.0,0.0,90.0,6.4031,6.4031,83.5969,98.7906,True,False
+1,0.0,5.0,100.0,3,2.0,4.0,45.0,2.2361,2.2361,42.7639,102.2918,True,True
